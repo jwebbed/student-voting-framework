@@ -20,4 +20,4 @@ systems, or to build there own domain specific one for their schools servers
 
 This is very much a work in progress and how many of these goals will be accomplished have not yet been determined. If
 you're interested in this project and are interested in using it for your own organization feel free to get in touch 
-with me. All relevent info is at my website: http://webbdev.ca/
+with me. All my relevent contact info is at my website: http://webbdev.ca/
